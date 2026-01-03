@@ -5,6 +5,9 @@ Python Textbook을 학습용으로 작성합니다.
 
 - 메일: a23493307@gmail.com
 
+## 목차
+(추가예정)
+
 ## Author
 
 <div align="center">
@@ -26,4 +29,4 @@ Python Textbook을 학습용으로 작성합니다.
 
 </div>
 
-**Last Updated**: 2025년 12월 30일
+**Last Updated**: 2026년 1월 3일
